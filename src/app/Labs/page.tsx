@@ -29,7 +29,7 @@ export default function Labs() {
           </Link>
         </li>
         <li>
-          <a href="https://github.com/YOUR_USERNAME/kambaz-next-js" id="wd-github">
+          <a href="https://github.com/Vedant3008/kambaz-next-js.git" id="wd-github">
             GitHub Repository
           </a>
         </li>
