@@ -73,7 +73,7 @@ export default function Lab1() {
         <ul id="wd-my-books">
           <li>Dune</li>
           <li>Lord of the Rings</li>
-          <li>Ender's Game</li>
+          <li>Ender Game</li>
           <li>Red Mars</li>
           <li>The Forever War</li>
         </ul>
@@ -172,17 +172,19 @@ export default function Lab1() {
         <h4>Image tag</h4>
         Loading an image from the internet: <br />
         <img 
-          id="wd-starship" 
-          width="400px" 
-          src="https://www.staradvertiser.com/wp-content/uploads/2021/08/web1_Starship-gap2.jpg" 
+            id="wd-starship" 
+            width="400px" 
+            src="https://www.staradvertiser.com/wp-content/uploads/2021/08/web1_Starship-gap2.jpg"
+            alt="Starship" 
         />
         <br />
         Loading a local image:
         <br />
         <img 
-          id="wd-teslabot" 
-          src="/images/teslabot.jpg" 
-          height="200px" 
+            id="wd-teslabot" 
+            src="/images/teslabot.jpg" 
+            height="200px"
+            alt="Tesla Bot" 
         />
       </div>
       {/* Forms Section */}
