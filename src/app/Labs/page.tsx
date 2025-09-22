@@ -4,7 +4,7 @@ export default function Labs() {
   return (
     <div id="wd-labs">
       <h1>Labs</h1>
-      <h2>Vedant Shah</h2>
+      <h1>Vedant Shah</h1>
       <h2>NUID - 002306912</h2>
       
       <ul>
